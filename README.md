@@ -23,6 +23,7 @@ This project supports category filtering, embedded videos, short/long video sepa
 - **Icons:** react-icons
 
 ---
+🔗 Live Demo: https://v4viki.github.io/YouTube-Clone
 
 ## 🚀 Installation
 
